@@ -1,0 +1,8 @@
+<suite name="Suite">
+  <test name="CucumberTest">
+    <classes>
+      <class >
+      </class>
+    </classes>
+  </test> <!-- Test -->
+</suite>
